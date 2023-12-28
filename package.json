@@ -1,0 +1,14 @@
+{
+  "name": "anagrama",
+  "version": "1.0.0",
+  "description": "comprueba dos string y dice si es un anagrama o no",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "javi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
